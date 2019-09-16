@@ -17,7 +17,7 @@ Ian Rios - [https://ianrios.github.io/](https://ianrios.github.io/)
 - Eric Hampton - [https://EricHampton.github.io/](https://erichampton12.github.io/Blog/)
 - Sam Wheeling - [https://anchormansam.github.io/my-blog/](https://anchormansam.github.io/my-blog/)
 - Rachael Yoder - [https://rachyoder.github.io/](https://rachyoder.github.io/)
-- Michael Loyselle - [https://Leozas.github.io/](https://Leozos.github.io/)
+- Michael Loyselle - [https://leozas.github.io/MyGitHubBlog/](https://leozas.github.io/MyGitHubBlog/)
 - Ethan Borkosky - [https://eBork1.github.io/](https://eBork1.github.io/)
 
 # GitHub Profiles
